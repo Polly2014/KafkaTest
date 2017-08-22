@@ -1,0 +1,601 @@
+[{
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503280800',
+		u 'oldestDumpTime': u '1300378740',
+		u 'dumpPeriod': 7200
+	},
+	'type': u 'routeviews',
+	'name': u 'route-views.saopaulo',
+	'updates': {
+		u 'dumpDuration': 900,
+		u 'latestDumpTime': u '1503280800',
+		u 'oldestDumpTime': u '1300378740',
+		u 'dumpPeriod': 900
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503280800',
+		u 'oldestDumpTime': u '1467115200',
+		u 'dumpPeriod': 7200
+	},
+	'type': u 'routeviews',
+	'name': u 'route-views.chicago',
+	'updates': {
+		u 'dumpDuration': 900,
+		u 'latestDumpTime': u '1503280800',
+		u 'oldestDumpTime': u '1467117300',
+		u 'dumpPeriod': 900
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503280800',
+		u 'oldestDumpTime': u '1341878400',
+		u 'dumpPeriod': 7200
+	},
+	'type': u 'routeviews',
+	'name': u 'route-views.jinx',
+	'updates': {
+		u 'dumpDuration': 900,
+		u 'latestDumpTime': u '1503280800',
+		u 'oldestDumpTime': u '1341919800',
+		u 'dumpPeriod': 900
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503280800',
+		u 'oldestDumpTime': u '1353016080',
+		u 'dumpPeriod': 7200
+	},
+	'type': u 'routeviews',
+	'name': u 'route-views.perth',
+	'updates': {
+		u 'dumpDuration': 900,
+		u 'latestDumpTime': u '1503280800',
+		u 'oldestDumpTime': u '1353016080',
+		u 'dumpPeriod': 900
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503280800',
+		u 'oldestDumpTime': u '1429041600',
+		u 'dumpPeriod': 7200
+	},
+	'type': u 'routeviews',
+	'name': u 'route-views.sfmix',
+	'updates': {
+		u 'dumpDuration': 900,
+		u 'latestDumpTime': u '1503280800',
+		u 'oldestDumpTime': u '1429038900',
+		u 'dumpPeriod': 900
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503280800',
+		u 'oldestDumpTime': u '1069898400',
+		u 'dumpPeriod': 7200
+	},
+	'type': u 'routeviews',
+	'name': u 'route-views.isc',
+	'updates': {
+		u 'dumpDuration': 900,
+		u 'latestDumpTime': u '1503280800',
+		u 'oldestDumpTime': u '1069898400',
+		u 'dumpPeriod': 900
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503280800',
+		u 'oldestDumpTime': u '1057094940',
+		u 'dumpPeriod': 7200
+	},
+	'type': u 'routeviews',
+	'name': u 'route-views.wide',
+	'updates': {
+		u 'dumpDuration': 900,
+		u 'latestDumpTime': u '1503280800',
+		u 'oldestDumpTime': u '1057094940',
+		u 'dumpPeriod': 900
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1502265600',
+		u 'oldestDumpTime': u '1388534400',
+		u 'dumpPeriod': 7200
+	},
+	'type': u 'routeviews',
+	'name': u 'route-views.soxrs',
+	'updates': {
+		u 'dumpDuration': 900,
+		u 'latestDumpTime': u '1502267400',
+		u 'oldestDumpTime': u '1388534400',
+		u 'dumpPeriod': 900
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503244800',
+		u 'oldestDumpTime': u '1128699840',
+		u 'dumpPeriod': 7200
+	},
+	'type': u 'routeviews',
+	'name': u 'route-views.kixp',
+	'updates': {
+		u 'dumpDuration': 900,
+		u 'latestDumpTime': u '1503245700',
+		u 'oldestDumpTime': u '1128699840',
+		u 'dumpPeriod': 900
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503280800',
+		u 'oldestDumpTime': u '1395348720',
+		u 'dumpPeriod': 7200
+	},
+	'type': u 'routeviews',
+	'name': u 'route-views.nwax',
+	'updates': {
+		u 'dumpDuration': 900,
+		u 'latestDumpTime': u '1503280800',
+		u 'oldestDumpTime': u '1395348720',
+		u 'dumpPeriod': 900
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503280800',
+		u 'oldestDumpTime': u '1328222760',
+		u 'dumpPeriod': 7200
+	},
+	'type': u 'routeviews',
+	'name': u 'route-views.telxatl',
+	'updates': {
+		u 'dumpDuration': 900,
+		u 'latestDumpTime': u '1503280800',
+		u 'oldestDumpTime': u '1328222700',
+		u 'dumpPeriod': 900
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503280800',
+		u 'oldestDumpTime': u '1084802340',
+		u 'dumpPeriod': 7200
+	},
+	'type': u 'routeviews',
+	'name': u 'route-views.eqix',
+	'updates': {
+		u 'dumpDuration': 900,
+		u 'latestDumpTime': u '1503279900',
+		u 'oldestDumpTime': u '1084802340',
+		u 'dumpPeriod': 900
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503280800',
+		u 'oldestDumpTime': u '1004114880',
+		u 'dumpPeriod': 7200
+	},
+	'type': u 'routeviews',
+	'name': u 'route-views2',
+	'updates': {
+		u 'dumpDuration': 900,
+		u 'latestDumpTime': u '1503280800',
+		u 'oldestDumpTime': u '1004102520',
+		u 'dumpPeriod': 900
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503280800',
+		u 'oldestDumpTime': u '1385373600',
+		u 'dumpPeriod': 7200
+	},
+	'type': u 'routeviews',
+	'name': u 'route-views3',
+	'updates': {
+		u 'dumpDuration': 900,
+		u 'latestDumpTime': u '1503280800',
+		u 'oldestDumpTime': u '1385370000',
+		u 'dumpPeriod': 900
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503280800',
+		u 'oldestDumpTime': u '1281751200',
+		u 'dumpPeriod': 7200
+	},
+	'type': u 'routeviews',
+	'name': u 'route-views.sydney',
+	'updates': {
+		u 'dumpDuration': 900,
+		u 'latestDumpTime': u '1503280800',
+		u 'oldestDumpTime': u '1281755700',
+		u 'dumpPeriod': 900
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503280800',
+		u 'oldestDumpTime': u '1079444700',
+		u 'dumpPeriod': 7200
+	},
+	'type': u 'routeviews',
+	'name': u 'route-views.linx',
+	'updates': {
+		u 'dumpDuration': 900,
+		u 'latestDumpTime': u '1503280800',
+		u 'oldestDumpTime': u '1079444700',
+		u 'dumpPeriod': 900
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503280800',
+		u 'oldestDumpTime': u '1051964940',
+		u 'dumpPeriod': 7200
+	},
+	'type': u 'routeviews',
+	'name': u 'route-views6',
+	'updates': {
+		u 'dumpDuration': 900,
+		u 'latestDumpTime': u '1503280800',
+		u 'oldestDumpTime': u '1051964940',
+		u 'dumpPeriod': 900
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503280800',
+		u 'oldestDumpTime': u '1401896640',
+		u 'dumpPeriod': 7200
+	},
+	'type': u 'routeviews',
+	'name': u 'route-views.sg',
+	'updates': {
+		u 'dumpDuration': 900,
+		u 'latestDumpTime': u '1503280800',
+		u 'oldestDumpTime': u '1401896640',
+		u 'dumpPeriod': 900
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503280800',
+		u 'oldestDumpTime': u '1227865980',
+		u 'dumpPeriod': 7200
+	},
+	'type': u 'routeviews',
+	'name': u 'route-views4',
+	'updates': {
+		u 'dumpDuration': 900,
+		u 'latestDumpTime': u '1503280800',
+		u 'oldestDumpTime': u '1227865980',
+		u 'dumpPeriod': 900
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1222905540',
+		u 'oldestDumpTime': u '985398000',
+		u 'dumpPeriod': 28800
+	},
+	'type': u 'ris',
+	'name': u 'rrc02',
+	'updates': {
+		u 'dumpDuration': 300,
+		u 'latestDumpTime': u '1222920300',
+		u 'oldestDumpTime': u '985376400',
+		u 'dumpPeriod': 300
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503273600',
+		u 'oldestDumpTime': u '979693560',
+		u 'dumpPeriod': 28800
+	},
+	'type': u 'ris',
+	'name': u 'rrc03',
+	'updates': {
+		u 'dumpDuration': 300,
+		u 'latestDumpTime': u '1503281400',
+		u 'oldestDumpTime': u '979664760',
+		u 'dumpPeriod': 300
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503273600',
+		u 'oldestDumpTime': u '939513960',
+		u 'dumpPeriod': 28800
+	},
+	'type': u 'ris',
+	'name': u 'rrc00',
+	'updates': {
+		u 'dumpDuration': 300,
+		u 'latestDumpTime': u '1503281400',
+		u 'oldestDumpTime': u '936355260',
+		u 'dumpPeriod': 300
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503273600',
+		u 'oldestDumpTime': u '964687020',
+		u 'dumpPeriod': 28800
+	},
+	'type': u 'ris',
+	'name': u 'rrc01',
+	'updates': {
+		u 'dumpDuration': 300,
+		u 'latestDumpTime': u '1503281100',
+		u 'oldestDumpTime': u '964623600',
+		u 'dumpPeriod': 300
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503273600',
+		u 'oldestDumpTime': u '999184080',
+		u 'dumpPeriod': 28800
+	},
+	'type': u 'ris',
+	'name': u 'rrc06',
+	'updates': {
+		u 'dumpDuration': 300,
+		u 'latestDumpTime': u '1503281100',
+		u 'oldestDumpTime': u '999161580',
+		u 'dumpPeriod': 300
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503273600',
+		u 'oldestDumpTime': u '1017953460',
+		u 'dumpPeriod': 28800
+	},
+	'type': u 'ris',
+	'name': u 'rrc07',
+	'updates': {
+		u 'dumpDuration': 300,
+		u 'latestDumpTime': u '1503281400',
+		u 'oldestDumpTime': u '1017935460',
+		u 'dumpPeriod': 300
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503273600',
+		u 'oldestDumpTime': u '988137720',
+		u 'dumpPeriod': 28800
+	},
+	'type': u 'ris',
+	'name': u 'rrc04',
+	'updates': {
+		u 'dumpDuration': 300,
+		u 'latestDumpTime': u '1503281100',
+		u 'oldestDumpTime': u '988108920',
+		u 'dumpPeriod': 300
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503273600',
+		u 'oldestDumpTime': u '992450100',
+		u 'dumpPeriod': 28800
+	},
+	'type': u 'ris',
+	'name': u 'rrc05',
+	'updates': {
+		u 'dumpDuration': 300,
+		u 'latestDumpTime': u '1503281400',
+		u 'oldestDumpTime': u '992421300',
+		u 'dumpPeriod': 300
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503273600',
+		u 'oldestDumpTime': u '1477958400',
+		u 'dumpPeriod': 28800
+	},
+	'type': u 'ris',
+	'name': u 'rrc19',
+	'updates': {
+		u 'dumpDuration': 300,
+		u 'latestDumpTime': u '1503280500',
+		u 'oldestDumpTime': u '1480550400',
+		u 'dumpPeriod': 300
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503273600',
+		u 'oldestDumpTime': u '1480550400',
+		u 'dumpPeriod': 28800
+	},
+	'type': u 'ris',
+	'name': u 'rrc18',
+	'updates': {
+		u 'dumpDuration': 300,
+		u 'latestDumpTime': u '1503280200',
+		u 'oldestDumpTime': u '1480550400',
+		u 'dumpPeriod': 300
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1094112000',
+		u 'oldestDumpTime': u '1020793980',
+		u 'dumpPeriod': 28800
+	},
+	'type': u 'ris',
+	'name': u 'rrc08',
+	'updates': {
+		u 'dumpDuration': 300,
+		u 'latestDumpTime': u '1094137200',
+		u 'oldestDumpTime': u '1020765180',
+		u 'dumpPeriod': 300
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1075910400',
+		u 'oldestDumpTime': u '1052601300',
+		u 'dumpPeriod': 28800
+	},
+	'type': u 'ris',
+	'name': u 'rrc09',
+	'updates': {
+		u 'dumpDuration': 300,
+		u 'latestDumpTime': u '1075928340',
+		u 'oldestDumpTime': u '1052570640',
+		u 'dumpPeriod': 300
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503273600',
+		u 'oldestDumpTime': u '1119628800',
+		u 'dumpPeriod': 28800
+	},
+	'type': u 'ris',
+	'name': u 'rrc13',
+	'updates': {
+		u 'dumpDuration': 300,
+		u 'latestDumpTime': u '1503281400',
+		u 'oldestDumpTime': u '1117807800',
+		u 'dumpPeriod': 300
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503273600',
+		u 'oldestDumpTime': u '1067644800',
+		u 'dumpPeriod': 28800
+	},
+	'type': u 'ris',
+	'name': u 'rrc10',
+	'updates': {
+		u 'dumpDuration': 300,
+		u 'latestDumpTime': u '1503281400',
+		u 'oldestDumpTime': u '1067644800',
+		u 'dumpPeriod': 300
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503273600',
+		u 'oldestDumpTime': u '1076688000',
+		u 'dumpPeriod': 28800
+	},
+	'type': u 'ris',
+	'name': u 'rrc11',
+	'updates': {
+		u 'dumpDuration': 300,
+		u 'latestDumpTime': u '1503281100',
+		u 'oldestDumpTime': u '1076860800',
+		u 'dumpPeriod': 300
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503273600',
+		u 'oldestDumpTime': u '1480550400',
+		u 'dumpPeriod': 28800
+	},
+	'type': u 'ris',
+	'name': u 'rrc20',
+	'updates': {
+		u 'dumpDuration': 300,
+		u 'latestDumpTime': u '1503280500',
+		u 'oldestDumpTime': u '1480550400',
+		u 'dumpPeriod': 300
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503273600',
+		u 'oldestDumpTime': u '1089072000',
+		u 'dumpPeriod': 28800
+	},
+	'type': u 'ris',
+	'name': u 'rrc12',
+	'updates': {
+		u 'dumpDuration': 300,
+		u 'latestDumpTime': u '1503281100',
+		u 'oldestDumpTime': u '1089023700',
+		u 'dumpPeriod': 300
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503273600',
+		u 'oldestDumpTime': u '1451606400',
+		u 'dumpPeriod': 28800
+	},
+	'type': u 'ris',
+	'name': u 'rrc21',
+	'updates': {
+		u 'dumpDuration': 300,
+		u 'latestDumpTime': u '1503280500',
+		u 'oldestDumpTime': u '1451606400',
+		u 'dumpPeriod': 300
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503273600',
+		u 'oldestDumpTime': u '1134576000',
+		u 'dumpPeriod': 28800
+	},
+	'type': u 'ris',
+	'name': u 'rrc15',
+	'updates': {
+		u 'dumpDuration': 300,
+		u 'latestDumpTime': u '1503281400',
+		u 'oldestDumpTime': u '1136284200',
+		u 'dumpPeriod': 300
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503273600',
+		u 'oldestDumpTime': u '1201852740',
+		u 'dumpPeriod': 28800
+	},
+	'type': u 'ris',
+	'name': u 'rrc16',
+	'updates': {
+		u 'dumpDuration': 300,
+		u 'latestDumpTime': u '1503281100',
+		u 'oldestDumpTime': u '1201824000',
+		u 'dumpPeriod': 300
+	}
+}, {
+	'ribs': {
+		u 'dumpDuration': 120,
+		u 'latestDumpTime': u '1503273600',
+		u 'oldestDumpTime': u '1104537600',
+		u 'dumpPeriod': 28800
+	},
+	'type': u 'ris',
+	'name': u 'rrc14',
+	'updates': {
+		u 'dumpDuration': 300,
+		u 'latestDumpTime': u '1503281400',
+		u 'oldestDumpTime': u '1104537600',
+		u 'dumpPeriod': 300
+	}
+}]
