@@ -1,0 +1,27 @@
+Start Send....
+Collector:[route-views.soxrs]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[route-views.kixp]
+Total Num:97208, IPv4 Num:97208, Total Size:8371072
+Collector:[route-views.perth]
+Total Num:856336, IPv4 Num:814304, Total Size:74040095
+Collector:[route-views.wide]
+Total Num:1553407, IPv4 Num:1510939, Total Size:126127748
+Collector:[route-views.jinx]
+Total Num:1560877, IPv4 Num:1534137, Total Size:131272877
+Collector:[route-views.sfmix]
+Total Num:3369127, IPv4 Num:3286106, Total Size:286955470
+Collector:[route-views.chicago]
+Total Num:3640367, IPv4 Num:3492007, Total Size:311152979
+Collector:[route-views.nwax]
+Total Num:3911569, IPv4 Num:3785655, Total Size:326100687
+Collector:[route-views.telxatl]
+Total Num:4588307, IPv4 Num:4424797, Total Size:388206230
+Collector:[route-views.isc]
+Total Num:4547729, IPv4 Num:4492719, Total Size:381000611
+Collector:[route-views.eqix]
+Total Num:8274887, IPv4 Num:7867283, Total Size:682104602
+Collector:[route-views.saopaulo]
+Total Num:11485148, IPv4 Num:10921233, Total Size:1004504804
+All Messages send over!!!
+Total time cost:20596.0888979s

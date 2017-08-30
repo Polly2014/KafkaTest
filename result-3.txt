@@ -1,0 +1,1716 @@
+Start Send....
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+All Messages send over!!!
+Total time cost:82.303041935s
+Start Send....
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+All Messages send over!!!
+Total time cost:81.9656279087s
+Start Send....
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+All Messages send over!!!
+Total time cost:81.4604120255s
+Start Send....
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+All Messages send over!!!
+Total time cost:80.8481650352s
+Start Send....
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[route-views.sfmix]
+Total Num:9921, IPv4 Num:5359, Total Size:456797
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+All Messages send over!!!
+Total time cost:82.8720860481s
+Start Send....
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[route-views.sfmix]
+Total Num:9921, IPv4 Num:5359, Total Size:456797
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[route-views.isc]
+Total Num:27243, IPv4 Num:22080, Total Size:1797589
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+All Messages send over!!!
+Total time cost:83.519318819s
+Start Send....
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[route-views.wide]
+Total Num:2642, IPv4 Num:2481, Total Size:201599
+Collector:[route-views.sfmix]
+Total Num:9921, IPv4 Num:5359, Total Size:456797
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[route-views.isc]
+Total Num:27243, IPv4 Num:22080, Total Size:1797589
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+All Messages send over!!!
+Total time cost:81.7947180271s
+Start Send....
+Collector:[route-views.soxrs]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[route-views.wide]
+Total Num:2642, IPv4 Num:2481, Total Size:201599
+Collector:[route-views.sfmix]
+Total Num:9921, IPv4 Num:5359, Total Size:456797
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[route-views.isc]
+Total Num:27243, IPv4 Num:22080, Total Size:1797589
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+All Messages send over!!!
+Total time cost:83.493265152s
+Start Send....
+Collector:[route-views.soxrs]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[route-views.kixp]
+Total Num:22, IPv4 Num:22, Total Size:1538
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[route-views.wide]
+Total Num:2642, IPv4 Num:2481, Total Size:201599
+Collector:[route-views.sfmix]
+Total Num:9921, IPv4 Num:5359, Total Size:456797
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[route-views.isc]
+Total Num:27243, IPv4 Num:22080, Total Size:1797589
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+All Messages send over!!!
+Total time cost:81.7297699451s
+Start Send....
+Collector:[route-views.soxrs]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[route-views.kixp]
+Total Num:22, IPv4 Num:22, Total Size:1538
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[route-views.sfmix]
+Total Num:9921, IPv4 Num:5359, Total Size:456797
+Collector:[route-views.wide]
+Total Num:2642, IPv4 Num:2481, Total Size:201599
+Collector:[route-views.nwax]
+Total Num:18250, IPv4 Num:6904, Total Size:591804
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[route-views.isc]
+Total Num:27243, IPv4 Num:22080, Total Size:1797589
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+All Messages send over!!!
+Total time cost:77.8698909283s
+Start Send....
+Collector:[route-views.soxrs]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[route-views.kixp]
+Total Num:22, IPv4 Num:22, Total Size:1538
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[route-views.wide]
+Total Num:2642, IPv4 Num:2481, Total Size:201599
+Collector:[route-views.sfmix]
+Total Num:9921, IPv4 Num:5359, Total Size:456797
+Collector:[route-views.nwax]
+Total Num:18250, IPv4 Num:6904, Total Size:591804
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[route-views.telxatl]
+Total Num:25917, IPv4 Num:11569, Total Size:954014
+Collector:[route-views.isc]
+Total Num:27243, IPv4 Num:22080, Total Size:1797589
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+All Messages send over!!!
+Total time cost:77.752810955s
+Start Send....
+Collector:[route-views.soxrs]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[route-views.kixp]
+Total Num:22, IPv4 Num:22, Total Size:1538
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[route-views.wide]
+Total Num:2642, IPv4 Num:2481, Total Size:201599
+Collector:[route-views.sfmix]
+Total Num:9921, IPv4 Num:5359, Total Size:456797
+Collector:[route-views.nwax]
+Total Num:18250, IPv4 Num:6904, Total Size:591804
+Collector:[route-views.telxatl]
+Total Num:25917, IPv4 Num:11569, Total Size:954014
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[route-views.isc]
+Total Num:27243, IPv4 Num:22080, Total Size:1797589
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+Collector:[route-views.eqix]
+Total Num:38776, IPv4 Num:29902, Total Size:2498880
+All Messages send over!!!
+Total time cost:78.7539761066s
+Start Send....
+Collector:[route-views.soxrs]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[route-views.kixp]
+Total Num:22, IPv4 Num:22, Total Size:1538
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[route-views.wide]
+Total Num:2642, IPv4 Num:2481, Total Size:201599
+Collector:[route-views.sfmix]
+Total Num:9921, IPv4 Num:5359, Total Size:456797
+Collector:[route-views.nwax]
+Total Num:18250, IPv4 Num:6904, Total Size:591804
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[route-views.telxatl]
+Total Num:25917, IPv4 Num:11569, Total Size:954014
+Collector:[route-views.isc]
+Total Num:27243, IPv4 Num:22080, Total Size:1797589
+Collector:[route-views.eqix]
+Total Num:38776, IPv4 Num:29902, Total Size:2498880
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+Collector:[route-views2]
+Total Num:197623, IPv4 Num:197623, Total Size:18144634
+All Messages send over!!!
+Total time cost:396.484649181s
+Start Send....
+Collector:[route-views.soxrs]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[route-views.kixp]
+Total Num:22, IPv4 Num:22, Total Size:1538
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[route-views.wide]
+Total Num:2642, IPv4 Num:2481, Total Size:201599
+Collector:[route-views.sfmix]
+Total Num:9921, IPv4 Num:5359, Total Size:456797
+Collector:[route-views.nwax]
+Total Num:18250, IPv4 Num:6904, Total Size:591804
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[route-views.telxatl]
+Total Num:25917, IPv4 Num:11569, Total Size:954014
+Collector:[route-views.isc]
+Total Num:27243, IPv4 Num:22080, Total Size:1797589
+Collector:[route-views.eqix]
+Total Num:38776, IPv4 Num:29902, Total Size:2498880
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+Collector:[route-views3]
+Total Num:41965, IPv4 Num:36027, Total Size:2892384
+Collector:[route-views2]
+Total Num:197623, IPv4 Num:197623, Total Size:18144634
+All Messages send over!!!
+Total time cost:415.088894844s
+Start Send....
+Collector:[route-views.soxrs]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[route-views.kixp]
+Total Num:22, IPv4 Num:22, Total Size:1538
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[route-views.nwax]
+Total Num:18250, IPv4 Num:6904, Total Size:591804
+Collector:[route-views.telxatl]
+Total Num:25917, IPv4 Num:11569, Total Size:954014
+Collector:[route-views.wide]
+Total Num:2642, IPv4 Num:2481, Total Size:201599
+Collector:[route-views.sydney]
+Total Num:26301, IPv4 Num:12262, Total Size:1027098
+Collector:[route-views.isc]
+Total Num:27243, IPv4 Num:22080, Total Size:1797589
+Collector:[route-views.sfmix]
+Total Num:9921, IPv4 Num:5359, Total Size:456797
+Collector:[route-views.eqix]
+Total Num:38776, IPv4 Num:29902, Total Size:2498880
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+Collector:[route-views3]
+Total Num:41965, IPv4 Num:36027, Total Size:2892384
+Collector:[route-views2]
+Total Num:197623, IPv4 Num:197623, Total Size:18144634
+All Messages send over!!!
+Total time cost:415.226083994s
+Start Send....
+Collector:[route-views.soxrs]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[route-views.kixp]
+Total Num:22, IPv4 Num:22, Total Size:1538
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[route-views.wide]
+Total Num:2642, IPv4 Num:2481, Total Size:201599
+Collector:[route-views.sfmix]
+Total Num:9921, IPv4 Num:5359, Total Size:456797
+Collector:[route-views.nwax]
+Total Num:18250, IPv4 Num:6904, Total Size:591804
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[route-views.telxatl]
+Total Num:25917, IPv4 Num:11569, Total Size:954014
+Collector:[route-views.sydney]
+Total Num:26301, IPv4 Num:12262, Total Size:1027098
+Collector:[route-views.isc]
+Total Num:27243, IPv4 Num:22080, Total Size:1797589
+Collector:[route-views.eqix]
+Total Num:38776, IPv4 Num:29902, Total Size:2498880
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+Collector:[route-views3]
+Total Num:41965, IPv4 Num:36027, Total Size:2892384
+Collector:[route-views.linx]
+Total Num:513136, IPv4 Num:70576, Total Size:5869453
+Collector:[route-views2]
+Total Num:197623, IPv4 Num:197623, Total Size:18144634
+All Messages send over!!!
+Total time cost:414.586976051s
+Start Send....
+Collector:[route-views.soxrs]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[route-views.kixp]
+Total Num:22, IPv4 Num:22, Total Size:1538
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[route-views.wide]
+Total Num:2642, IPv4 Num:2481, Total Size:201599
+Collector:[route-views.sfmix]
+Total Num:9921, IPv4 Num:5359, Total Size:456797
+Collector:[route-views6]
+Total Num:82006, IPv4 Num:0, Total Size:0
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[route-views.nwax]
+Total Num:18250, IPv4 Num:6904, Total Size:591804
+Collector:[route-views.sydney]
+Total Num:26301, IPv4 Num:12262, Total Size:1027098
+Collector:[route-views.telxatl]
+Total Num:25917, IPv4 Num:11569, Total Size:954014
+Collector:[route-views.isc]
+Total Num:27243, IPv4 Num:22080, Total Size:1797589
+Collector:[route-views.eqix]
+Total Num:38776, IPv4 Num:29902, Total Size:2498880
+Collector:[route-views3]
+Total Num:41965, IPv4 Num:36027, Total Size:2892384
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+Collector:[route-views.linx]
+Total Num:513136, IPv4 Num:70576, Total Size:5869453
+Collector:[route-views2]
+Total Num:197623, IPv4 Num:197623, Total Size:18144634
+All Messages send over!!!
+Total time cost:422.620386839s
+Start Send....
+Collector:[route-views.soxrs]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[route-views.kixp]
+Total Num:22, IPv4 Num:22, Total Size:1538
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[route-views.sfmix]
+Total Num:9921, IPv4 Num:5359, Total Size:456797
+Collector:[route-views6]
+Total Num:82006, IPv4 Num:0, Total Size:0
+Collector:[route-views.nwax]
+Total Num:18250, IPv4 Num:6904, Total Size:591804
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[route-views.sydney]
+Total Num:26301, IPv4 Num:12262, Total Size:1027098
+Collector:[route-views.telxatl]
+Total Num:25917, IPv4 Num:11569, Total Size:954014
+Collector:[route-views.sg]
+Total Num:16901, IPv4 Num:13174, Total Size:1150265
+Collector:[route-views.isc]
+Total Num:27243, IPv4 Num:22080, Total Size:1797589
+Collector:[route-views.wide]
+Total Num:2642, IPv4 Num:2481, Total Size:201599
+Collector:[route-views.eqix]
+Total Num:38776, IPv4 Num:29902, Total Size:2498880
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+Collector:[route-views3]
+Total Num:41965, IPv4 Num:36027, Total Size:2892384
+Collector:[route-views.linx]
+Total Num:513136, IPv4 Num:70576, Total Size:5869453
+Collector:[route-views2]
+Total Num:197623, IPv4 Num:197623, Total Size:18144634
+All Messages send over!!!
+Total time cost:420.895348072s
+Start Send....
+Collector:[route-views.soxrs]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[route-views.kixp]
+Total Num:22, IPv4 Num:22, Total Size:1538
+Collector:[route-views.wide]
+Total Num:2642, IPv4 Num:2481, Total Size:201599
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[route-views.sfmix]
+Total Num:9921, IPv4 Num:5359, Total Size:456797
+Collector:[route-views6]
+Total Num:82006, IPv4 Num:0, Total Size:0
+Collector:[route-views.nwax]
+Total Num:18250, IPv4 Num:6904, Total Size:591804
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[route-views.sg]
+Total Num:16901, IPv4 Num:13174, Total Size:1150265
+Collector:[route-views.telxatl]
+Total Num:25917, IPv4 Num:11569, Total Size:954014
+Collector:[route-views.sydney]
+Total Num:26301, IPv4 Num:12262, Total Size:1027098
+Collector:[route-views.isc]
+Total Num:27243, IPv4 Num:22080, Total Size:1797589
+Collector:[route-views.eqix]
+Total Num:38776, IPv4 Num:29902, Total Size:2498880
+Collector:[route-views3]
+Total Num:41965, IPv4 Num:36027, Total Size:2892384
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+Collector:[route-views.linx]
+Total Num:513136, IPv4 Num:70576, Total Size:5869453
+Collector:[route-views4]
+Total Num:128411, IPv4 Num:99725, Total Size:8306783
+Collector:[route-views2]
+Total Num:197623, IPv4 Num:197623, Total Size:18144634
+All Messages send over!!!
+Total time cost:422.438359976s
+Start Send....
+Collector:[rrc02]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[route-views.soxrs]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[route-views.kixp]
+Total Num:22, IPv4 Num:22, Total Size:1538
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[route-views.wide]
+Total Num:2642, IPv4 Num:2481, Total Size:201599
+Collector:[route-views.sfmix]
+Total Num:9921, IPv4 Num:5359, Total Size:456797
+Collector:[route-views6]
+Total Num:82006, IPv4 Num:0, Total Size:0
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[route-views.nwax]
+Total Num:18250, IPv4 Num:6904, Total Size:591804
+Collector:[route-views.sg]
+Total Num:16901, IPv4 Num:13174, Total Size:1150265
+Collector:[route-views.sydney]
+Total Num:26301, IPv4 Num:12262, Total Size:1027098
+Collector:[route-views.telxatl]
+Total Num:25917, IPv4 Num:11569, Total Size:954014
+Collector:[route-views.isc]
+Total Num:27243, IPv4 Num:22080, Total Size:1797589
+Collector:[route-views.eqix]
+Total Num:38776, IPv4 Num:29902, Total Size:2498880
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+Collector:[route-views3]
+Total Num:41965, IPv4 Num:36027, Total Size:2892384
+Collector:[route-views.linx]
+Total Num:513136, IPv4 Num:70576, Total Size:5869453
+Collector:[route-views4]
+Total Num:128411, IPv4 Num:99725, Total Size:8306783
+Collector:[route-views2]
+Total Num:197623, IPv4 Num:197623, Total Size:18144634
+All Messages send over!!!
+Total time cost:426.089262009s
+Start Send....
+Collector:[route-views.soxrs]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[route-views.kixp]
+Total Num:22, IPv4 Num:22, Total Size:1538
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[route-views.wide]
+Total Num:2642, IPv4 Num:2481, Total Size:201599
+Collector:[route-views.sfmix]
+Total Num:9921, IPv4 Num:5359, Total Size:456797
+Collector:[route-views6]
+Total Num:82006, IPv4 Num:0, Total Size:0
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[route-views.nwax]
+Total Num:18250, IPv4 Num:6904, Total Size:591804
+Collector:[route-views.sydney]
+Total Num:26301, IPv4 Num:12262, Total Size:1027098
+Collector:[route-views.telxatl]
+Total Num:25917, IPv4 Num:11569, Total Size:954014
+Collector:[route-views.sg]
+Total Num:16901, IPv4 Num:13174, Total Size:1150265
+Collector:[route-views.isc]
+Total Num:27243, IPv4 Num:22080, Total Size:1797589
+Collector:[rrc02]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc03]
+Total Num:28074, IPv4 Num:17237, Total Size:1433287
+Collector:[route-views.eqix]
+Total Num:38776, IPv4 Num:29902, Total Size:2498880
+Collector:[route-views3]
+Total Num:41965, IPv4 Num:36027, Total Size:2892384
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+Collector:[route-views.linx]
+Total Num:513136, IPv4 Num:70576, Total Size:5869453
+Collector:[route-views4]
+Total Num:128411, IPv4 Num:99725, Total Size:8306783
+Collector:[route-views2]
+Total Num:197623, IPv4 Num:197623, Total Size:18144634
+All Messages send over!!!
+Total time cost:426.201601028s
+Start Send....
+Collector:[route-views.kixp]
+Total Num:22, IPv4 Num:22, Total Size:1538
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[route-views.wide]
+Total Num:2642, IPv4 Num:2481, Total Size:201599
+Collector:[route-views.sfmix]
+Total Num:9921, IPv4 Num:5359, Total Size:456797
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[route-views6]
+Total Num:82006, IPv4 Num:0, Total Size:0
+Collector:[route-views.nwax]
+Total Num:18250, IPv4 Num:6904, Total Size:591804
+Collector:[route-views.sydney]
+Total Num:26301, IPv4 Num:12262, Total Size:1027098
+Collector:[route-views.telxatl]
+Total Num:25917, IPv4 Num:11569, Total Size:954014
+Collector:[route-views.sg]
+Total Num:16901, IPv4 Num:13174, Total Size:1150265
+Collector:[route-views.soxrs]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc03]
+Total Num:28074, IPv4 Num:17237, Total Size:1433287
+Collector:[route-views.isc]
+Total Num:27243, IPv4 Num:22080, Total Size:1797589
+Collector:[route-views.eqix]
+Total Num:38776, IPv4 Num:29902, Total Size:2498880
+Collector:[rrc02]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc00]
+Total Num:39164, IPv4 Num:32023, Total Size:2612853
+Collector:[route-views3]
+Total Num:41965, IPv4 Num:36027, Total Size:2892384
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+Collector:[route-views.linx]
+Total Num:513136, IPv4 Num:70576, Total Size:5869453
+Collector:[route-views4]
+Total Num:128411, IPv4 Num:99725, Total Size:8306783
+Collector:[route-views2]
+Total Num:197623, IPv4 Num:197623, Total Size:18144634
+All Messages send over!!!
+Total time cost:427.886211157s
+Start Send....
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[route-views.wide]
+Total Num:2642, IPv4 Num:2481, Total Size:201599
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[route-views6]
+Total Num:82006, IPv4 Num:0, Total Size:0
+Collector:[route-views.sfmix]
+Total Num:9921, IPv4 Num:5359, Total Size:456797
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[route-views.nwax]
+Total Num:18250, IPv4 Num:6904, Total Size:591804
+Collector:[route-views.sg]
+Total Num:16901, IPv4 Num:13174, Total Size:1150265
+Collector:[route-views.telxatl]
+Total Num:25917, IPv4 Num:11569, Total Size:954014
+Collector:[route-views.sydney]
+Total Num:26301, IPv4 Num:12262, Total Size:1027098
+Collector:[route-views.soxrs]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc03]
+Total Num:28074, IPv4 Num:17237, Total Size:1433287
+Collector:[route-views.isc]
+Total Num:27243, IPv4 Num:22080, Total Size:1797589
+Collector:[route-views.kixp]
+Total Num:22, IPv4 Num:22, Total Size:1538
+Collector:[rrc01]
+Total Num:27272, IPv4 Num:18171, Total Size:1517847
+Collector:[route-views.eqix]
+Total Num:38776, IPv4 Num:29902, Total Size:2498880
+Collector:[rrc02]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc00]
+Total Num:39164, IPv4 Num:32023, Total Size:2612853
+Collector:[route-views3]
+Total Num:41965, IPv4 Num:36027, Total Size:2892384
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+Collector:[route-views4]
+Total Num:128411, IPv4 Num:99725, Total Size:8306783
+Collector:[route-views.linx]
+Total Num:513136, IPv4 Num:70576, Total Size:5869453
+Collector:[route-views2]
+Total Num:197623, IPv4 Num:197623, Total Size:18144634
+All Messages send over!!!
+Total time cost:397.892369032s
+Start Send....
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[route-views.wide]
+Total Num:2642, IPv4 Num:2481, Total Size:201599
+Collector:[route-views.sfmix]
+Total Num:9921, IPv4 Num:5359, Total Size:456797
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[rrc06]
+Total Num:7701, IPv4 Num:3626, Total Size:297863
+Collector:[route-views6]
+Total Num:82006, IPv4 Num:0, Total Size:0
+Collector:[route-views.nwax]
+Total Num:18250, IPv4 Num:6904, Total Size:591804
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[route-views.sg]
+Total Num:16901, IPv4 Num:13174, Total Size:1150265
+Collector:[route-views.telxatl]
+Total Num:25917, IPv4 Num:11569, Total Size:954014
+Collector:[rrc02]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc03]
+Total Num:28074, IPv4 Num:17237, Total Size:1433287
+Collector:[route-views.sydney]
+Total Num:26301, IPv4 Num:12262, Total Size:1027098
+Collector:[route-views.kixp]
+Total Num:22, IPv4 Num:22, Total Size:1538
+Collector:[rrc01]
+Total Num:27272, IPv4 Num:18171, Total Size:1517847
+Collector:[route-views.isc]
+Total Num:27243, IPv4 Num:22080, Total Size:1797589
+Collector:[route-views.eqix]
+Total Num:38776, IPv4 Num:29902, Total Size:2498880
+Collector:[route-views3]
+Total Num:41965, IPv4 Num:36027, Total Size:2892384
+Collector:[route-views.soxrs]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc00]
+Total Num:39164, IPv4 Num:32023, Total Size:2612853
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+Collector:[route-views.linx]
+Total Num:513136, IPv4 Num:70576, Total Size:5869453
+Collector:[route-views4]
+Total Num:128411, IPv4 Num:99725, Total Size:8306783
+Collector:[route-views2]
+Total Num:197623, IPv4 Num:197623, Total Size:18144634
+All Messages send over!!!
+Total time cost:390.127024889s
+Start Send....
+Collector:[route-views.wide]
+Total Num:2642, IPv4 Num:2481, Total Size:201599
+Collector:[route-views.sfmix]
+Total Num:9921, IPv4 Num:5359, Total Size:456797
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[rrc06]
+Total Num:7701, IPv4 Num:3626, Total Size:297863
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[route-views6]
+Total Num:82006, IPv4 Num:0, Total Size:0
+Collector:[route-views.nwax]
+Total Num:18250, IPv4 Num:6904, Total Size:591804
+Collector:[route-views.telxatl]
+Total Num:25917, IPv4 Num:11569, Total Size:954014
+Collector:[route-views.sg]
+Total Num:16901, IPv4 Num:13174, Total Size:1150265
+Collector:[route-views.sydney]
+Total Num:26301, IPv4 Num:12262, Total Size:1027098
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[rrc07]
+Total Num:19105, IPv4 Num:10969, Total Size:910720
+Collector:[route-views.kixp]
+Total Num:22, IPv4 Num:22, Total Size:1538
+Collector:[rrc01]
+Total Num:27272, IPv4 Num:18171, Total Size:1517847
+Collector:[route-views.isc]
+Total Num:27243, IPv4 Num:22080, Total Size:1797589
+Collector:[route-views.soxrs]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc03]
+Total Num:28074, IPv4 Num:17237, Total Size:1433287
+Collector:[rrc02]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc00]
+Total Num:39164, IPv4 Num:32023, Total Size:2612853
+Collector:[route-views.eqix]
+Total Num:38776, IPv4 Num:29902, Total Size:2498880
+Collector:[route-views3]
+Total Num:41965, IPv4 Num:36027, Total Size:2892384
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+Collector:[route-views.linx]
+Total Num:513136, IPv4 Num:70576, Total Size:5869453
+Collector:[route-views4]
+Total Num:128411, IPv4 Num:99725, Total Size:8306783
+Collector:[route-views2]
+Total Num:197623, IPv4 Num:197623, Total Size:18144634
+All Messages send over!!!
+Total time cost:406.839128017s
+Start Send....
+Collector:[route-views.sfmix]
+Total Num:9921, IPv4 Num:5359, Total Size:456797
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[rrc06]
+Total Num:7701, IPv4 Num:3626, Total Size:297863
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[route-views.nwax]
+Total Num:18250, IPv4 Num:6904, Total Size:591804
+Collector:[route-views6]
+Total Num:82006, IPv4 Num:0, Total Size:0
+Collector:[route-views.telxatl]
+Total Num:25917, IPv4 Num:11569, Total Size:954014
+Collector:[route-views.sydney]
+Total Num:26301, IPv4 Num:12262, Total Size:1027098
+Collector:[route-views.sg]
+Total Num:16901, IPv4 Num:13174, Total Size:1150265
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[rrc07]
+Total Num:19105, IPv4 Num:10969, Total Size:910720
+Collector:[route-views.wide]
+Total Num:2642, IPv4 Num:2481, Total Size:201599
+Collector:[rrc04]
+Total Num:22494, IPv4 Num:14438, Total Size:1209720
+Collector:[route-views.kixp]
+Total Num:22, IPv4 Num:22, Total Size:1538
+Collector:[rrc01]
+Total Num:27272, IPv4 Num:18171, Total Size:1517847
+Collector:[route-views.soxrs]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc03]
+Total Num:28074, IPv4 Num:17237, Total Size:1433287
+Collector:[route-views.isc]
+Total Num:27243, IPv4 Num:22080, Total Size:1797589
+Collector:[rrc02]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc00]
+Total Num:39164, IPv4 Num:32023, Total Size:2612853
+Collector:[route-views.eqix]
+Total Num:38776, IPv4 Num:29902, Total Size:2498880
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+Collector:[route-views3]
+Total Num:41965, IPv4 Num:36027, Total Size:2892384
+Collector:[route-views.linx]
+Total Num:513136, IPv4 Num:70576, Total Size:5869453
+Collector:[route-views4]
+Total Num:128411, IPv4 Num:99725, Total Size:8306783
+Collector:[route-views2]
+Total Num:197623, IPv4 Num:197623, Total Size:18144634
+All Messages send over!!!
+Total time cost:403.337811947s
+Start Send....
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[rrc06]
+Total Num:7701, IPv4 Num:3626, Total Size:297863
+Collector:[route-views6]
+Total Num:82006, IPv4 Num:0, Total Size:0
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[route-views.nwax]
+Total Num:18250, IPv4 Num:6904, Total Size:591804
+Collector:[route-views.sg]
+Total Num:16901, IPv4 Num:13174, Total Size:1150265
+Collector:[route-views.sydney]
+Total Num:26301, IPv4 Num:12262, Total Size:1027098
+Collector:[route-views.telxatl]
+Total Num:25917, IPv4 Num:11569, Total Size:954014
+Collector:[route-views.sfmix]
+Total Num:9921, IPv4 Num:5359, Total Size:456797
+Collector:[rrc05]
+Total Num:14295, IPv4 Num:8999, Total Size:715778
+Collector:[route-views.wide]
+Total Num:2642, IPv4 Num:2481, Total Size:201599
+Collector:[rrc04]
+Total Num:22494, IPv4 Num:14438, Total Size:1209720
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[rrc07]
+Total Num:19105, IPv4 Num:10969, Total Size:910720
+Collector:[route-views.kixp]
+Total Num:22, IPv4 Num:22, Total Size:1538
+Collector:[rrc01]
+Total Num:27272, IPv4 Num:18171, Total Size:1517847
+Collector:[route-views.isc]
+Total Num:27243, IPv4 Num:22080, Total Size:1797589
+Collector:[rrc02]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc03]
+Total Num:28074, IPv4 Num:17237, Total Size:1433287
+Collector:[route-views.eqix]
+Total Num:38776, IPv4 Num:29902, Total Size:2498880
+Collector:[route-views.soxrs]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc00]
+Total Num:39164, IPv4 Num:32023, Total Size:2612853
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+Collector:[route-views3]
+Total Num:41965, IPv4 Num:36027, Total Size:2892384
+Collector:[route-views.linx]
+Total Num:513136, IPv4 Num:70576, Total Size:5869453
+Collector:[route-views4]
+Total Num:128411, IPv4 Num:99725, Total Size:8306783
+Collector:[route-views2]
+Total Num:197623, IPv4 Num:197623, Total Size:18144634
+All Messages send over!!!
+Total time cost:395.797480106s
+Start Send....
+Collector:[route-views.nwax]
+Total Num:18250, IPv4 Num:6904, Total Size:591804
+Collector:[route-views6]
+Total Num:82006, IPv4 Num:0, Total Size:0
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[route-views.sydney]
+Total Num:26301, IPv4 Num:12262, Total Size:1027098
+Collector:[route-views.sg]
+Total Num:16901, IPv4 Num:13174, Total Size:1150265
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[rrc07]
+Total Num:19105, IPv4 Num:10969, Total Size:910720
+Collector:[route-views.telxatl]
+Total Num:25917, IPv4 Num:11569, Total Size:954014
+Collector:[route-views.sfmix]
+Total Num:9921, IPv4 Num:5359, Total Size:456797
+Collector:[rrc05]
+Total Num:14295, IPv4 Num:8999, Total Size:715778
+Collector:[route-views.soxrs]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc03]
+Total Num:28074, IPv4 Num:17237, Total Size:1433287
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[rrc06]
+Total Num:7701, IPv4 Num:3626, Total Size:297863
+Collector:[rrc19]
+Total Num:13614, IPv4 Num:10840, Total Size:890469
+Collector:[route-views.wide]
+Total Num:2642, IPv4 Num:2481, Total Size:201599
+Collector:[rrc04]
+Total Num:22494, IPv4 Num:14438, Total Size:1209720
+Collector:[route-views.kixp]
+Total Num:22, IPv4 Num:22, Total Size:1538
+Collector:[rrc01]
+Total Num:27272, IPv4 Num:18171, Total Size:1517847
+Collector:[route-views.isc]
+Total Num:27243, IPv4 Num:22080, Total Size:1797589
+Collector:[route-views.eqix]
+Total Num:38776, IPv4 Num:29902, Total Size:2498880
+Collector:[rrc02]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc00]
+Total Num:39164, IPv4 Num:32023, Total Size:2612853
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+Collector:[route-views.linx]
+Total Num:513136, IPv4 Num:70576, Total Size:5869453
+Collector:[route-views3]
+Total Num:41965, IPv4 Num:36027, Total Size:2892384
+Collector:[route-views4]
+Total Num:128411, IPv4 Num:99725, Total Size:8306783
+Collector:[route-views2]
+Total Num:197623, IPv4 Num:197623, Total Size:18144634
+All Messages send over!!!
+Total time cost:400.3561759s
+Start Send....
+Collector:[route-views.telxatl]
+Total Num:25917, IPv4 Num:11569, Total Size:954014
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[route-views.sydney]
+Total Num:26301, IPv4 Num:12262, Total Size:1027098
+Collector:[route-views.sg]
+Total Num:16901, IPv4 Num:13174, Total Size:1150265
+Collector:[route-views6]
+Total Num:82006, IPv4 Num:0, Total Size:0
+Collector:[rrc18]
+Total Num:6298, IPv4 Num:6079, Total Size:441027
+Collector:[route-views.nwax]
+Total Num:18250, IPv4 Num:6904, Total Size:591804
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[rrc07]
+Total Num:19105, IPv4 Num:10969, Total Size:910720
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[rrc06]
+Total Num:7701, IPv4 Num:3626, Total Size:297863
+Collector:[rrc19]
+Total Num:13614, IPv4 Num:10840, Total Size:890469
+Collector:[route-views.wide]
+Total Num:2642, IPv4 Num:2481, Total Size:201599
+Collector:[rrc04]
+Total Num:22494, IPv4 Num:14438, Total Size:1209720
+Collector:[route-views.sfmix]
+Total Num:9921, IPv4 Num:5359, Total Size:456797
+Collector:[rrc05]
+Total Num:14295, IPv4 Num:8999, Total Size:715778
+Collector:[route-views.kixp]
+Total Num:22, IPv4 Num:22, Total Size:1538
+Collector:[rrc01]
+Total Num:27272, IPv4 Num:18171, Total Size:1517847
+Collector:[route-views.isc]
+Total Num:27243, IPv4 Num:22080, Total Size:1797589
+Collector:[route-views.soxrs]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc03]
+Total Num:28074, IPv4 Num:17237, Total Size:1433287
+Collector:[route-views.eqix]
+Total Num:38776, IPv4 Num:29902, Total Size:2498880
+Collector:[rrc02]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc00]
+Total Num:39164, IPv4 Num:32023, Total Size:2612853
+Collector:[route-views3]
+Total Num:41965, IPv4 Num:36027, Total Size:2892384
+Collector:[route-views.linx]
+Total Num:513136, IPv4 Num:70576, Total Size:5869453
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+Collector:[route-views4]
+Total Num:128411, IPv4 Num:99725, Total Size:8306783
+Collector:[route-views2]
+Total Num:197623, IPv4 Num:197623, Total Size:18144634
+All Messages send over!!!
+Total time cost:393.766074896s
+Start Send....
+Collector:[route-views.telxatl]
+Total Num:25917, IPv4 Num:11569, Total Size:954014
+Collector:[route-views.nwax]
+Total Num:18250, IPv4 Num:6904, Total Size:591804
+Collector:[route-views.sg]
+Total Num:16901, IPv4 Num:13174, Total Size:1150265
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[rrc08]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[route-views.sydney]
+Total Num:26301, IPv4 Num:12262, Total Size:1027098
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[rrc06]
+Total Num:7701, IPv4 Num:3626, Total Size:297863
+Collector:[rrc18]
+Total Num:6298, IPv4 Num:6079, Total Size:441027
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[rrc07]
+Total Num:19105, IPv4 Num:10969, Total Size:910720
+Collector:[route-views.sfmix]
+Total Num:9921, IPv4 Num:5359, Total Size:456797
+Collector:[rrc05]
+Total Num:14295, IPv4 Num:8999, Total Size:715778
+Collector:[rrc02]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc03]
+Total Num:28074, IPv4 Num:17237, Total Size:1433287
+Collector:[route-views.isc]
+Total Num:27243, IPv4 Num:22080, Total Size:1797589
+Collector:[route-views.wide]
+Total Num:2642, IPv4 Num:2481, Total Size:201599
+Collector:[rrc04]
+Total Num:22494, IPv4 Num:14438, Total Size:1209720
+Collector:[route-views.kixp]
+Total Num:22, IPv4 Num:22, Total Size:1538
+Collector:[rrc01]
+Total Num:27272, IPv4 Num:18171, Total Size:1517847
+Collector:[route-views6]
+Total Num:82006, IPv4 Num:0, Total Size:0
+Collector:[rrc19]
+Total Num:13614, IPv4 Num:10840, Total Size:890469
+Collector:[route-views.eqix]
+Total Num:38776, IPv4 Num:29902, Total Size:2498880
+Collector:[route-views.soxrs]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc00]
+Total Num:39164, IPv4 Num:32023, Total Size:2612853
+Collector:[route-views3]
+Total Num:41965, IPv4 Num:36027, Total Size:2892384
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+Collector:[route-views4]
+Total Num:128411, IPv4 Num:99725, Total Size:8306783
+Collector:[route-views.linx]
+Total Num:513136, IPv4 Num:70576, Total Size:5869453
+Collector:[route-views2]
+Total Num:197623, IPv4 Num:197623, Total Size:18144634
+All Messages send over!!!
+Total time cost:403.107372999s
+Start Send....
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[rrc08]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[route-views6]
+Total Num:82006, IPv4 Num:0, Total Size:0
+Collector:[rrc09]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[route-views.sg]
+Total Num:16901, IPv4 Num:13174, Total Size:1150265
+Collector:[route-views.telxatl]
+Total Num:25917, IPv4 Num:11569, Total Size:954014
+Collector:[route-views.sydney]
+Total Num:26301, IPv4 Num:12262, Total Size:1027098
+Collector:[route-views.nwax]
+Total Num:18250, IPv4 Num:6904, Total Size:591804
+Collector:[rrc18]
+Total Num:6298, IPv4 Num:6079, Total Size:441027
+Collector:[route-views.sfmix]
+Total Num:9921, IPv4 Num:5359, Total Size:456797
+Collector:[rrc05]
+Total Num:14295, IPv4 Num:8999, Total Size:715778
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[rrc07]
+Total Num:19105, IPv4 Num:10969, Total Size:910720
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[rrc06]
+Total Num:7701, IPv4 Num:3626, Total Size:297863
+Collector:[rrc19]
+Total Num:13614, IPv4 Num:10840, Total Size:890469
+Collector:[route-views.isc]
+Total Num:27243, IPv4 Num:22080, Total Size:1797589
+Collector:[rrc02]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc03]
+Total Num:28074, IPv4 Num:17237, Total Size:1433287
+Collector:[route-views.wide]
+Total Num:2642, IPv4 Num:2481, Total Size:201599
+Collector:[rrc04]
+Total Num:22494, IPv4 Num:14438, Total Size:1209720
+Collector:[route-views.kixp]
+Total Num:22, IPv4 Num:22, Total Size:1538
+Collector:[rrc01]
+Total Num:27272, IPv4 Num:18171, Total Size:1517847
+Collector:[route-views.eqix]
+Total Num:38776, IPv4 Num:29902, Total Size:2498880
+Collector:[route-views.soxrs]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc00]
+Total Num:39164, IPv4 Num:32023, Total Size:2612853
+Collector:[route-views3]
+Total Num:41965, IPv4 Num:36027, Total Size:2892384
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+Collector:[route-views.linx]
+Total Num:513136, IPv4 Num:70576, Total Size:5869453
+Collector:[route-views4]
+Total Num:128411, IPv4 Num:99725, Total Size:8306783
+Collector:[route-views2]
+Total Num:197623, IPv4 Num:197623, Total Size:18144634
+All Messages send over!!!
+Total time cost:411.876010895s
+Start Send....
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[rrc09]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[route-views.sydney]
+Total Num:26301, IPv4 Num:12262, Total Size:1027098
+Collector:[route-views6]
+Total Num:82006, IPv4 Num:0, Total Size:0
+Collector:[rrc18]
+Total Num:6298, IPv4 Num:6079, Total Size:441027
+Collector:[route-views.sg]
+Total Num:16901, IPv4 Num:13174, Total Size:1150265
+Collector:[route-views.telxatl]
+Total Num:25917, IPv4 Num:11569, Total Size:954014
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[rrc07]
+Total Num:19105, IPv4 Num:10969, Total Size:910720
+Collector:[route-views.wide]
+Total Num:2642, IPv4 Num:2481, Total Size:201599
+Collector:[rrc04]
+Total Num:22494, IPv4 Num:14438, Total Size:1209720
+Collector:[route-views.sfmix]
+Total Num:9921, IPv4 Num:5359, Total Size:456797
+Collector:[rrc05]
+Total Num:14295, IPv4 Num:8999, Total Size:715778
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[rrc06]
+Total Num:7701, IPv4 Num:3626, Total Size:297863
+Collector:[rrc19]
+Total Num:13614, IPv4 Num:10840, Total Size:890469
+Collector:[route-views.soxrs]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc03]
+Total Num:28074, IPv4 Num:17237, Total Size:1433287
+Collector:[route-views.isc]
+Total Num:27243, IPv4 Num:22080, Total Size:1797589
+Collector:[route-views.kixp]
+Total Num:22, IPv4 Num:22, Total Size:1538
+Collector:[rrc01]
+Total Num:27272, IPv4 Num:18171, Total Size:1517847
+Collector:[route-views.eqix]
+Total Num:38776, IPv4 Num:29902, Total Size:2498880
+Collector:[route-views.nwax]
+Total Num:18250, IPv4 Num:6904, Total Size:591804
+Collector:[rrc08]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc13]
+Total Num:36219, IPv4 Num:22986, Total Size:1989232
+Collector:[rrc02]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc00]
+Total Num:39164, IPv4 Num:32023, Total Size:2612853
+Collector:[route-views3]
+Total Num:41965, IPv4 Num:36027, Total Size:2892384
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+Collector:[route-views.linx]
+Total Num:513136, IPv4 Num:70576, Total Size:5869453
+Collector:[route-views4]
+Total Num:128411, IPv4 Num:99725, Total Size:8306783
+Collector:[route-views2]
+Total Num:197623, IPv4 Num:197623, Total Size:18144634
+All Messages send over!!!
+Total time cost:391.942723036s
+Start Send....
+Collector:[route-views.sydney]
+Total Num:26301, IPv4 Num:12262, Total Size:1027098
+Collector:[route-views.sg]
+Total Num:16901, IPv4 Num:13174, Total Size:1150265
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[rrc18]
+Total Num:6298, IPv4 Num:6079, Total Size:441027
+Collector:[route-views.telxatl]
+Total Num:25917, IPv4 Num:11569, Total Size:954014
+Collector:[route-views.wide]
+Total Num:2642, IPv4 Num:2481, Total Size:201599
+Collector:[rrc04]
+Total Num:22494, IPv4 Num:14438, Total Size:1209720
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[rrc07]
+Total Num:19105, IPv4 Num:10969, Total Size:910720
+Collector:[route-views.soxrs]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc03]
+Total Num:28074, IPv4 Num:17237, Total Size:1433287
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[rrc06]
+Total Num:7701, IPv4 Num:3626, Total Size:297863
+Collector:[rrc05]
+Total Num:14295, IPv4 Num:8999, Total Size:715778
+Collector:[route-views.sfmix]
+Total Num:9921, IPv4 Num:5359, Total Size:456797
+Collector:[rrc19]
+Total Num:13614, IPv4 Num:10840, Total Size:890469
+Collector:[route-views.isc]
+Total Num:27243, IPv4 Num:22080, Total Size:1797589
+Collector:[route-views.kixp]
+Total Num:22, IPv4 Num:22, Total Size:1538
+Collector:[rrc01]
+Total Num:27272, IPv4 Num:18171, Total Size:1517847
+Collector:[rrc02]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc00]
+Total Num:39164, IPv4 Num:32023, Total Size:2612853
+Collector:[route-views.eqix]
+Total Num:38776, IPv4 Num:29902, Total Size:2498880
+Collector:[route-views.nwax]
+Total Num:18250, IPv4 Num:6904, Total Size:591804
+Collector:[rrc10]
+Total Num:31084, IPv4 Num:19389, Total Size:1575067
+Collector:[route-views6]
+Total Num:82006, IPv4 Num:0, Total Size:0
+Collector:[rrc08]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc09]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc13]
+Total Num:36219, IPv4 Num:22986, Total Size:1989232
+Collector:[route-views3]
+Total Num:41965, IPv4 Num:36027, Total Size:2892384
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+Collector:[route-views4]
+Total Num:128411, IPv4 Num:99725, Total Size:8306783
+Collector:[route-views.linx]
+Total Num:513136, IPv4 Num:70576, Total Size:5869453
+Collector:[route-views2]
+Total Num:197623, IPv4 Num:197623, Total Size:18144634
+All Messages send over!!!
+Total time cost:407.997421026s
+Start Send....
+Collector:[route-views.sg]
+Total Num:16901, IPv4 Num:13174, Total Size:1150265
+Collector:[route-views.sydney]
+Total Num:26301, IPv4 Num:12262, Total Size:1027098
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[rrc07]
+Total Num:19105, IPv4 Num:10969, Total Size:910720
+Collector:[route-views.sfmix]
+Total Num:9921, IPv4 Num:5359, Total Size:456797
+Collector:[rrc05]
+Total Num:14295, IPv4 Num:8999, Total Size:715778
+Collector:[route-views.wide]
+Total Num:2642, IPv4 Num:2481, Total Size:201599
+Collector:[rrc04]
+Total Num:22494, IPv4 Num:14438, Total Size:1209720
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[rrc06]
+Total Num:7701, IPv4 Num:3626, Total Size:297863
+Collector:[rrc19]
+Total Num:13614, IPv4 Num:10840, Total Size:890469
+Collector:[rrc02]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc03]
+Total Num:28074, IPv4 Num:17237, Total Size:1433287
+Collector:[route-views.kixp]
+Total Num:22, IPv4 Num:22, Total Size:1538
+Collector:[rrc01]
+Total Num:27272, IPv4 Num:18171, Total Size:1517847
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[rrc18]
+Total Num:6298, IPv4 Num:6079, Total Size:441027
+Collector:[route-views.isc]
+Total Num:27243, IPv4 Num:22080, Total Size:1797589
+Collector:[route-views.eqix]
+Total Num:38776, IPv4 Num:29902, Total Size:2498880
+Collector:[route-views.soxrs]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc00]
+Total Num:39164, IPv4 Num:32023, Total Size:2612853
+Collector:[route-views3]
+Total Num:41965, IPv4 Num:36027, Total Size:2892384
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+Collector:[route-views.telxatl]
+Total Num:25917, IPv4 Num:11569, Total Size:954014
+Collector:[rrc11]
+Total Num:39444, IPv4 Num:19118, Total Size:1611745
+Collector:[route-views.nwax]
+Total Num:18250, IPv4 Num:6904, Total Size:591804
+Collector:[rrc10]
+Total Num:31084, IPv4 Num:19389, Total Size:1575067
+Collector:[route-views6]
+Total Num:82006, IPv4 Num:0, Total Size:0
+Collector:[rrc08]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc09]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc13]
+Total Num:36219, IPv4 Num:22986, Total Size:1989232
+Collector:[route-views4]
+Total Num:128411, IPv4 Num:99725, Total Size:8306783
+Collector:[route-views.linx]
+Total Num:513136, IPv4 Num:70576, Total Size:5869453
+Collector:[route-views2]
+Total Num:197623, IPv4 Num:197623, Total Size:18144634
+All Messages send over!!!
+Total time cost:399.468637943s
+Start Send....
+Collector:[route-views.sg]
+Total Num:16901, IPv4 Num:13174, Total Size:1150265
+Collector:[route-views.telxatl]
+Total Num:25917, IPv4 Num:11569, Total Size:954014
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[rrc07]
+Total Num:19105, IPv4 Num:10969, Total Size:910720
+Collector:[route-views.sfmix]
+Total Num:9921, IPv4 Num:5359, Total Size:456797
+Collector:[rrc05]
+Total Num:14295, IPv4 Num:8999, Total Size:715778
+Collector:[route-views.wide]
+Total Num:2642, IPv4 Num:2481, Total Size:201599
+Collector:[rrc04]
+Total Num:22494, IPv4 Num:14438, Total Size:1209720
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[rrc06]
+Total Num:7701, IPv4 Num:3626, Total Size:297863
+Collector:[rrc19]
+Total Num:13614, IPv4 Num:10840, Total Size:890469
+Collector:[route-views.isc]
+Total Num:27243, IPv4 Num:22080, Total Size:1797589
+Collector:[route-views.kixp]
+Total Num:22, IPv4 Num:22, Total Size:1538
+Collector:[rrc01]
+Total Num:27272, IPv4 Num:18171, Total Size:1517847
+Collector:[route-views.soxrs]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc03]
+Total Num:28074, IPv4 Num:17237, Total Size:1433287
+Collector:[route-views.eqix]
+Total Num:38776, IPv4 Num:29902, Total Size:2498880
+Collector:[rrc02]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc00]
+Total Num:39164, IPv4 Num:32023, Total Size:2612853
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[rrc08]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc09]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc10]
+Total Num:31084, IPv4 Num:19389, Total Size:1575067
+Collector:[route-views.nwax]
+Total Num:18250, IPv4 Num:6904, Total Size:591804
+Collector:[rrc13]
+Total Num:36219, IPv4 Num:22986, Total Size:1989232
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+Collector:[route-views3]
+Total Num:41965, IPv4 Num:36027, Total Size:2892384
+Collector:[route-views.sydney]
+Total Num:26301, IPv4 Num:12262, Total Size:1027098
+Collector:[rrc11]
+Total Num:39444, IPv4 Num:19118, Total Size:1611745
+Collector:[route-views6]
+Total Num:82006, IPv4 Num:0, Total Size:0
+Collector:[rrc18]
+Total Num:6298, IPv4 Num:6079, Total Size:441027
+Collector:[rrc20]
+Total Num:54573, IPv4 Num:32867, Total Size:2733031
+Collector:[route-views4]
+Total Num:128411, IPv4 Num:99725, Total Size:8306783
+Collector:[route-views.linx]
+Total Num:513136, IPv4 Num:70576, Total Size:5869453
+Collector:[route-views2]
+Total Num:197623, IPv4 Num:197623, Total Size:18144634
+All Messages send over!!!
+Total time cost:400.348599911s
+Start Send....
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[rrc18]
+Total Num:6298, IPv4 Num:6079, Total Size:441027
+Collector:[route-views.sfmix]
+Total Num:9921, IPv4 Num:5359, Total Size:456797
+Collector:[rrc05]
+Total Num:14295, IPv4 Num:8999, Total Size:715778
+Collector:[route-views.wide]
+Total Num:2642, IPv4 Num:2481, Total Size:201599
+Collector:[rrc07]
+Total Num:19105, IPv4 Num:10969, Total Size:910720
+Collector:[route-views.isc]
+Total Num:27243, IPv4 Num:22080, Total Size:1797589
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[rrc06]
+Total Num:7701, IPv4 Num:3626, Total Size:297863
+Collector:[rrc19]
+Total Num:13614, IPv4 Num:10840, Total Size:890469
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[rrc04]
+Total Num:22494, IPv4 Num:14438, Total Size:1209720
+Collector:[route-views.kixp]
+Total Num:22, IPv4 Num:22, Total Size:1538
+Collector:[rrc01]
+Total Num:27272, IPv4 Num:18171, Total Size:1517847
+Collector:[rrc02]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc03]
+Total Num:28074, IPv4 Num:17237, Total Size:1433287
+Collector:[route-views.eqix]
+Total Num:38776, IPv4 Num:29902, Total Size:2498880
+Collector:[route-views.soxrs]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc00]
+Total Num:39164, IPv4 Num:32023, Total Size:2612853
+Collector:[route-views.nwax]
+Total Num:18250, IPv4 Num:6904, Total Size:591804
+Collector:[rrc08]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc09]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc13]
+Total Num:36219, IPv4 Num:22986, Total Size:1989232
+Collector:[route-views.sydney]
+Total Num:26301, IPv4 Num:12262, Total Size:1027098
+Collector:[rrc10]
+Total Num:31084, IPv4 Num:19389, Total Size:1575067
+Collector:[route-views3]
+Total Num:41965, IPv4 Num:36027, Total Size:2892384
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+Collector:[route-views6]
+Total Num:82006, IPv4 Num:0, Total Size:0
+Collector:[rrc11]
+Total Num:39444, IPv4 Num:19118, Total Size:1611745
+Collector:[route-views.sg]
+Total Num:16901, IPv4 Num:13174, Total Size:1150265
+Collector:[rrc20]
+Total Num:54573, IPv4 Num:32867, Total Size:2733031
+Collector:[route-views4]
+Total Num:128411, IPv4 Num:99725, Total Size:8306783
+Collector:[route-views.telxatl]
+Total Num:25917, IPv4 Num:11569, Total Size:954014
+Collector:[rrc12]
+Total Num:87466, IPv4 Num:36476, Total Size:2942366
+Collector:[route-views.linx]
+Total Num:513136, IPv4 Num:70576, Total Size:5869453
+Collector:[route-views2]
+Total Num:197623, IPv4 Num:197623, Total Size:18144634
+All Messages send over!!!
+Total time cost:414.245393991s
+Start Send....
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[rrc07]
+Total Num:19105, IPv4 Num:10969, Total Size:910720
+Collector:[route-views.sfmix]
+Total Num:9921, IPv4 Num:5359, Total Size:456797
+Collector:[rrc05]
+Total Num:14295, IPv4 Num:8999, Total Size:715778
+Collector:[route-views.wide]
+Total Num:2642, IPv4 Num:2481, Total Size:201599
+Collector:[rrc04]
+Total Num:22494, IPv4 Num:14438, Total Size:1209720
+Collector:[route-views6]
+Total Num:82006, IPv4 Num:0, Total Size:0
+Collector:[rrc19]
+Total Num:13614, IPv4 Num:10840, Total Size:890469
+Collector:[route-views.kixp]
+Total Num:22, IPv4 Num:22, Total Size:1538
+Collector:[rrc01]
+Total Num:27272, IPv4 Num:18171, Total Size:1517847
+Collector:[rrc02]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc03]
+Total Num:28074, IPv4 Num:17237, Total Size:1433287
+Collector:[route-views.isc]
+Total Num:27243, IPv4 Num:22080, Total Size:1797589
+Collector:[route-views.eqix]
+Total Num:38776, IPv4 Num:29902, Total Size:2498880
+Collector:[route-views.soxrs]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc00]
+Total Num:39164, IPv4 Num:32023, Total Size:2612853
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[rrc08]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc09]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc13]
+Total Num:36219, IPv4 Num:22986, Total Size:1989232
+Collector:[route-views.telxatl]
+Total Num:25917, IPv4 Num:11569, Total Size:954014
+Collector:[rrc10]
+Total Num:31084, IPv4 Num:19389, Total Size:1575067
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+Collector:[route-views3]
+Total Num:41965, IPv4 Num:36027, Total Size:2892384
+Collector:[route-views.nwax]
+Total Num:18250, IPv4 Num:6904, Total Size:591804
+Collector:[rrc11]
+Total Num:39444, IPv4 Num:19118, Total Size:1611745
+Collector:[route-views.sg]
+Total Num:16901, IPv4 Num:13174, Total Size:1150265
+Collector:[rrc20]
+Total Num:54573, IPv4 Num:32867, Total Size:2733031
+Collector:[route-views.sydney]
+Total Num:26301, IPv4 Num:12262, Total Size:1027098
+Collector:[rrc12]
+Total Num:87466, IPv4 Num:36476, Total Size:2942366
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[rrc06]
+Total Num:7701, IPv4 Num:3626, Total Size:297863
+Collector:[rrc18]
+Total Num:6298, IPv4 Num:6079, Total Size:441027
+Collector:[rrc21]
+Total Num:51094, IPv4 Num:33907, Total Size:2822622
+Collector:[route-views.linx]
+Total Num:513136, IPv4 Num:70576, Total Size:5869453
+Collector:[route-views4]
+Total Num:128411, IPv4 Num:99725, Total Size:8306783
+Collector:[route-views2]
+Total Num:197623, IPv4 Num:197623, Total Size:18144634
+All Messages send over!!!
+Total time cost:391.185904026s
+Start Send....
+Collector:[route-views.isc]
+Total Num:27243, IPv4 Num:22080, Total Size:1797589
+Collector:[route-views.wide]
+Total Num:2642, IPv4 Num:2481, Total Size:201599
+Collector:[rrc04]
+Total Num:22494, IPv4 Num:14438, Total Size:1209720
+Collector:[rrc02]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc03]
+Total Num:28074, IPv4 Num:17237, Total Size:1433287
+Collector:[route-views.sfmix]
+Total Num:9921, IPv4 Num:5359, Total Size:456797
+Collector:[rrc05]
+Total Num:14295, IPv4 Num:8999, Total Size:715778
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[rrc06]
+Total Num:7701, IPv4 Num:3626, Total Size:297863
+Collector:[rrc19]
+Total Num:13614, IPv4 Num:10840, Total Size:890469
+Collector:[route-views.kixp]
+Total Num:22, IPv4 Num:22, Total Size:1538
+Collector:[rrc01]
+Total Num:27272, IPv4 Num:18171, Total Size:1517847
+Collector:[route-views.eqix]
+Total Num:38776, IPv4 Num:29902, Total Size:2498880
+Collector:[route-views6]
+Total Num:82006, IPv4 Num:0, Total Size:0
+Collector:[rrc09]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc10]
+Total Num:31084, IPv4 Num:19389, Total Size:1575067
+Collector:[route-views.soxrs]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc00]
+Total Num:39164, IPv4 Num:32023, Total Size:2612853
+Collector:[route-views3]
+Total Num:41965, IPv4 Num:36027, Total Size:2892384
+Collector:[route-views.telxatl]
+Total Num:25917, IPv4 Num:11569, Total Size:954014
+Collector:[rrc11]
+Total Num:39444, IPv4 Num:19118, Total Size:1611745
+Collector:[route-views.nwax]
+Total Num:18250, IPv4 Num:6904, Total Size:591804
+Collector:[rrc08]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc13]
+Total Num:36219, IPv4 Num:22986, Total Size:1989232
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+Collector:[route-views.sydney]
+Total Num:26301, IPv4 Num:12262, Total Size:1027098
+Collector:[rrc20]
+Total Num:54573, IPv4 Num:32867, Total Size:2733031
+Collector:[route-views.sg]
+Total Num:16901, IPv4 Num:13174, Total Size:1150265
+Collector:[rrc12]
+Total Num:87466, IPv4 Num:36476, Total Size:2942366
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[rrc07]
+Total Num:19105, IPv4 Num:10969, Total Size:910720
+Collector:[rrc21]
+Total Num:51094, IPv4 Num:33907, Total Size:2822622
+Collector:[route-views.linx]
+Total Num:513136, IPv4 Num:70576, Total Size:5869453
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[rrc18]
+Total Num:6298, IPv4 Num:6079, Total Size:441027
+Collector:[rrc15]
+Total Num:88511, IPv4 Num:31717, Total Size:2711817
+Collector:[route-views4]
+Total Num:128411, IPv4 Num:99725, Total Size:8306783
+Collector:[route-views2]
+Total Num:197623, IPv4 Num:197623, Total Size:18144634
+All Messages send over!!!
+Total time cost:406.037654161s
+Start Send....
+Collector:[route-views.sfmix]
+Total Num:9921, IPv4 Num:5359, Total Size:456797
+Collector:[rrc05]
+Total Num:14295, IPv4 Num:8999, Total Size:715778
+Collector:[route-views.perth]
+Total Num:1070, IPv4 Num:595, Total Size:49395
+Collector:[rrc06]
+Total Num:7701, IPv4 Num:3626, Total Size:297863
+Collector:[rrc19]
+Total Num:13614, IPv4 Num:10840, Total Size:890469
+Collector:[rrc02]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc03]
+Total Num:28074, IPv4 Num:17237, Total Size:1433287
+Collector:[route-views.kixp]
+Total Num:22, IPv4 Num:22, Total Size:1538
+Collector:[rrc01]
+Total Num:27272, IPv4 Num:18171, Total Size:1517847
+Collector:[route-views.wide]
+Total Num:2642, IPv4 Num:2481, Total Size:201599
+Collector:[rrc04]
+Total Num:22494, IPv4 Num:14438, Total Size:1209720
+Collector:[route-views.isc]
+Total Num:27243, IPv4 Num:22080, Total Size:1797589
+Collector:[rrc16]
+Total Num:13028, IPv4 Num:6250, Total Size:534562
+Collector:[route-views3]
+Total Num:41965, IPv4 Num:36027, Total Size:2892384
+Collector:[route-views.eqix]
+Total Num:38776, IPv4 Num:29902, Total Size:2498880
+Collector:[route-views.soxrs]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc00]
+Total Num:39164, IPv4 Num:32023, Total Size:2612853
+Collector:[route-views.nwax]
+Total Num:18250, IPv4 Num:6904, Total Size:591804
+Collector:[rrc10]
+Total Num:31084, IPv4 Num:19389, Total Size:1575067
+Collector:[route-views.chicago]
+Total Num:10524, IPv4 Num:9032, Total Size:755164
+Collector:[rrc08]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc09]
+Total Num:0, IPv4 Num:0, Total Size:0
+Collector:[rrc13]
+Total Num:36219, IPv4 Num:22986, Total Size:1989232
+Collector:[route-views.saopaulo]
+Total Num:91419, IPv4 Num:32913, Total Size:2865305
+Collector:[route-views.sydney]
+Total Num:26301, IPv4 Num:12262, Total Size:1027098
+Collector:[rrc11]
+Total Num:39444, IPv4 Num:19118, Total Size:1611745
+Collector:[route-views.telxatl]
+Total Num:25917, IPv4 Num:11569, Total Size:954014
+Collector:[rrc20]
+Total Num:54573, IPv4 Num:32867, Total Size:2733031
+Collector:[route-views.jinx]
+Total Num:2029, IPv4 Num:1935, Total Size:157513
+Collector:[rrc07]
+Total Num:19105, IPv4 Num:10969, Total Size:910720
+Collector:[rrc21]
+Total Num:51094, IPv4 Num:33907, Total Size:2822622
+Collector:[route-views.sg]
+Total Num:16901, IPv4 Num:13174, Total Size:1150265
+Collector:[rrc12]
+Total Num:87466, IPv4 Num:36476, Total Size:2942366
+Collector:[route-views4]
+Total Num:128411, IPv4 Num:99725, Total Size:8306783
+Collector:[route-views6]
+Total Num:82006, IPv4 Num:0, Total Size:0
+Collector:[rrc18]
+Total Num:6298, IPv4 Num:6079, Total Size:441027
+Collector:[rrc15]
+Total Num:88511, IPv4 Num:31717, Total Size:2711817
+Collector:[route-views2]
+Total Num:197623, IPv4 Num:197623, Total Size:18144634
+Collector:[route-views.linx]
+Total Num:513136, IPv4 Num:70576, Total Size:5869453
+All Messages send over!!!
+Total time cost:472.799169064s
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------
+----------------------------------

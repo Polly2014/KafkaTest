@@ -1,0 +1,13 @@
+Start Send....
+Collector:[route-views.perth]
+Total Num:856336, IPv4 Num:814304, Total Size:74040095
+Collector:[route-views.jinx]
+Total Num:1560877, IPv4 Num:1534137, Total Size:131272877
+Collector:[route-views.sfmix]
+Total Num:3369127, IPv4 Num:3286106, Total Size:286955470
+Collector:[route-views.chicago]
+Total Num:3640367, IPv4 Num:3492007, Total Size:311152979
+Collector:[route-views.saopaulo]
+Total Num:11485148, IPv4 Num:10921233, Total Size:1004504804
+All Messages send over!!!
+Total time cost:21233.7060921s
